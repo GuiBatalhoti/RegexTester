@@ -1,0 +1,16 @@
+*{
+	font-family: sans-serif;
+}
+
+body{
+	margin: 10px;
+	background-color: #ccc;
+}
+
+#divInputREGEX{
+    margin: 10px;
+}
+
+#divInput01, #divInput02{
+	margin: 10px;
+}
