@@ -14,3 +14,8 @@ body{
 #divInput01, #divInput02{
 	margin: 10px;
 }
+
+#tableInputREGEX{
+	text-align: left;
+	background-color: #FFF;
+}
