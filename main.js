@@ -27,9 +27,9 @@ function regexTest() {
 
 function mudaCorTeste(inputTest, valorRE){
     if (valorRE == true) {
-        inputTest.style.backgroundColor = 'green';
+        inputTest.style.backgroundColor = '#4ef73b';
     }
     else {
-        inputTest.style.backgroundColor = 'red';
+        inputTest.style.backgroundColor = '#f52a2a';
     }
 }

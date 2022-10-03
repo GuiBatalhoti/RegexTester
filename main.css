@@ -16,6 +16,7 @@ body{
 }
 
 #tableInputREGEX{
+	padding: 1.5%;
 	text-align: left;
 	background-color: #FFF;
 }
