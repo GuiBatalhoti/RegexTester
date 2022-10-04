@@ -8,7 +8,7 @@ body{
 }
 
 #divInputREGEX{
-    margin: 10px;
+	margin: 10px;
 }
 
 #divInput01, #divInput02{
@@ -16,7 +16,18 @@ body{
 }
 
 #tableInputREGEX{
-	padding: 1.5%;
+	padding: 2%;
 	text-align: left;
 	background-color: #FFF;
+	border-radius: 10px;
+}
+
+#divREGEX{
+	margin: auto;
+}
+
+.container{
+	display: flex;
+	height: 50vh;
+
 }
